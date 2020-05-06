@@ -107,7 +107,7 @@ echo -e $blue" 69) install Lazymux"
 echo -e $blue" 70) Sql Balitbang"
 echo -e $blue" 71) DDOS HAMMER"
 echo -e $blue" 72) DDOS Xerxes"
-echo -e $blue" 73) "
+echo -e $blue" 73) 32 DDOS ATTACK"
 echo -e $blue" 74) admin login finder"
 echo -e $blue" 75) Admin Finder"
 echo -e $blue" 76) Spam SMS Jd id"
@@ -1201,7 +1201,14 @@ then
 clear
 echo -e $green"  "  
 sleep 1
-
+Menangkan 32DDOS ATTACK
+apt peningkatan && pembaruan apt
+apt install git toilet
+apt install python
+apt install python2
+git clone https://github.com/banghyuu/ddosWD
+cd ddosWD
+sh Ddos.sh
 sleep 1
 echo -e $red" Done cuk "
 fi
