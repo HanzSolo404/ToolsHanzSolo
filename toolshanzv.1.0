@@ -1199,9 +1199,8 @@ fi
 if [ $act = 73 ] || [ $act = 73 ] 
 then
 clear
-echo -e $green"  "  
+echo -e $green" Menangkan 32DDOS ATTACK "  
 sleep 1
-Menangkan 32DDOS ATTACK
 apt peningkatan && pembaruan apt
 apt install git toilet
 apt install python
